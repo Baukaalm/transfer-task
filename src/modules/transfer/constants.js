@@ -1,0 +1,1 @@
+export const TRANSFER_SUCCESS = 'Transfer/TRANSFER_SUCCESS';
